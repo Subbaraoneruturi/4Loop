@@ -1,0 +1,10 @@
+﻿
+Ctrl + k + c ------->  to comment the selected lines
+Ctrl + k + u ------->  to uncomment the selected lines
+
+Ctrl + k + d -------> to arrange proper format
+
+
+To get solution explorer we have to check in view
+to get gitchanges we have to check view 
+and other git releated things we can check in Git

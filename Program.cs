@@ -6,9 +6,15 @@ namespace Foreach
     {
         static void Main(string[] args)
         {
-            // for (int i = 0; i < 10; i++)
-            //{
-            //      Console.WriteLine("Value of i: {0}", i);
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Value of i: {0}", i);
+            }
+
+            //int[] numbers = new int[2] { 1,2};
+            //numbers[0] = 1;
+            //numbers[1] = 7;
+
 
             //Foreach
 
@@ -19,7 +25,7 @@ namespace Foreach
                 Console.WriteLine("{0}", car);
             }
             Console.ReadLine();
-
+            
 
         }
     }
